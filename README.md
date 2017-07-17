@@ -3,7 +3,7 @@ Udacity Python OOP Final Project
 
 ## How to Download code:
 
-Click "Fork" at the top of this webpage and click "Download ZIP" or copy the link provided and clone the repository.
+Click "Fork" at the top of this webpage and click "Download ZIP" or copy the link provided and clone the repository through the command line.
 
 ## Requirements?
 Python3 and a webBrowser.
